@@ -1,0 +1,39 @@
+name,displayname
+AD_CPU_Overload.Monitor,AD プロセッサの過負荷 (lsass) モニタ
+AD_Database_and_Log_DB.Monitor,AD データベース モニタ
+AD_Database_and_Log_DBSpace.Monitor,AD データベースの空き領域モニタ
+AD_Database_and_Log_LOG.Monitor,AD ログ ファイル モニタ
+AD_Database_and_Log_LogSpace.Monitor,AD ログ ファイルの空き領域モニタ
+AD_DNS_Verification.Monitor,AD DNS の確認モニタ
+AD_ADWS_Service.Monitor,AD Web Services Monitor
+AD_General_Response.Monitor,AD 一般応答モニタ
+AD_Global_Catalog_Search_Response.Monitor,AD グローバル カタログ検索応答モニタ
+AD_Monitor_Trusts.Monitor,AD 信頼の監視
+AD_Op_Master_Response.Monitor,AD Op マスタ応答モニタ
+AD_Replication_Monitoring.Monitor,AD レプリケーションの監視
+AD_Replication_Partner_Op_Master_Consistency.Monitor,AD レプリケーション パートナー Op マスタの整合性
+AD_Validate_Server_Trust_Event.Monitor,AD 信頼の確認イベント モニタ
+Microsoft.Windows.Server.2008.AD.EssentialService.KDC.ServiceCheck,KDC サービスのヘルス
+Microsoft.Windows.Server.2008.AD.DC.Netlogon.ServiceCheck,Net Logon サービスのヘルス
+Microsoft.Windows.Server.2008.AD.DC.NtFrs.ServiceCheck,ファイル レプリケーション サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.W32Time.ServiceCheck,Windows タイム サービスのヘルス
+Microsoft.Windows.Server.2008.AD.DomainController.GCSearchTime.Monitor,AD DC グローバル カタログの検索時間モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.LastBindMonitor.Monitor,AD DC 最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.LostObjectCount.Monitor,AD DC 失われたオブジェクト数モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.OpMasterDomainNamingLastBind.Monitor,AD DC Op マスタ ドメイン名前付け最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.OpMasterInfrastructureLastBind.Monitor,AD DC Op マスタ インフラストラクチャ マスタ最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.OpMasterPDCLastBind.Monitor,AD DC Op マスタ PDC 最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.OpMasterRIDLastBind.Monitor,AD DC Op マスタ RID 最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.DomainController.OpMasterSchemaLastBind.Monitor,AD DC Op マスタ スキーマ マスタ最終バインド モニタ
+Microsoft.Windows.Server.2008.AD.EssentialService.DFS.ServiceCheck,DFS サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.NTDS.ServiceCheck,NTDS サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.DFSR.ServiceCheck,DFSR サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.ISM.ServiceCheck,ISM サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.KDC.ServiceCheck,KDC サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.NetLogon.ServiceCheck,NetLogon サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.DCLocator.ServiceCheck,DCLocator のヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.NTFRS.ServiceCheck,NTFRS サービスのヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.SysVol.ServiceCheck,SysVol 共有ヘルス
+Microsoft.Windows.Server.2008.AD.EssentialService.W32Time.ServiceCheck,Windows タイム サービスのヘルス
+Microsoft.Windows.Server.2008.AD.DomainController.TimeSkew.Monitor,AD 時間のずれのモニタ
+Microsoft.Windows.Server.2008.AD.EssentialService.Rollup,重要なサービスの全体的な状態
